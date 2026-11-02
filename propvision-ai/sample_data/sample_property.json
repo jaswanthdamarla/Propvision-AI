@@ -1,0 +1,14 @@
+{
+  "title": "Skyline Residency",
+  "location": "Gachibowli, Hyderabad",
+  "price": "₹85 Lakhs",
+  "category": "Apartment",
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "area": "1,650 sq ft",
+  "description": "A 3-bedroom apartment with city views from the living room.",
+  "amenities": ["Modular kitchen", "Balcony", "Covered parking"],
+  "contact": "+91-00000-00000",
+  "cta_text": "",
+  "_note": "Synthetic demo listing. The name, phone number and images are fictional and illustrative."
+}
